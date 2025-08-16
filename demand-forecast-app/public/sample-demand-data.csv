@@ -1,0 +1,25 @@
+Date,Product,Category,Demand,Region
+01/01/2022,Widget A,Electronics,1200,North
+01/02/2022,Widget A,Electronics,1150,North
+01/03/2022,Widget A,Electronics,1300,North
+01/04/2022,Widget A,Electronics,1250,North
+01/05/2022,Widget A,Electronics,1400,North
+01/06/2022,Widget A,Electronics,1350,North
+01/07/2022,Widget A,Electronics,1500,North
+01/08/2022,Widget A,Electronics,1450,North
+01/09/2022,Widget A,Electronics,1600,North
+01/10/2022,Widget A,Electronics,1550,North
+01/11/2022,Widget A,Electronics,1700,North
+01/12/2022,Widget A,Electronics,1650,North
+01/01/2023,Widget A,Electronics,1750,North
+01/02/2023,Widget A,Electronics,1700,North
+01/03/2023,Widget A,Electronics,1850,North
+01/04/2023,Widget A,Electronics,1800,North
+01/05/2023,Widget A,Electronics,1950,North
+01/06/2023,Widget A,Electronics,1900,North
+01/07/2023,Widget A,Electronics,2000,North
+01/08/2023,Widget A,Electronics,1950,North
+01/09/2023,Widget A,Electronics,2100,North
+01/10/2023,Widget A,Electronics,2050,North
+01/11/2023,Widget A,Electronics,2200,North
+01/12/2023,Widget A,Electronics,2150,North
